@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mail-list>
-	<mail UserId="1" PassWord="2" Host="3"/>
-	<mail UserId="4" PassWord="5" Host="6"/>
+    <Mail>
+        <UserId></UserId>
+        <PassWord></PassWord>
+        <Host></Host>
+        <SSL></SSL>
+        <Port></Port>
+    </Mail>
 </mail-list>
